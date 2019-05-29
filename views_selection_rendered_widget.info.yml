@@ -1,0 +1,9 @@
+name: Views Selection Rendered Widget
+description: Views-enabled entity reference widget that actually renders the chosen fields.
+package: Custom
+dependencies:
+  - drupal:views
+  - drupal:entity_reference
+
+type: module
+core: 8.x
